@@ -5,7 +5,7 @@ This is a web based application developed for crop health and crop recommendatio
 ### This web based Agricultural application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://zealous-flower-04059b400.3.azurestaticapps.net
+**Project Link** - https://calm-mud-00d159b10.3.azurestaticapps.net
 
 **Project Demo Video Link** - https://youtu.be/JS0ezQs2LPA
 
