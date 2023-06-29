@@ -1,8 +1,8 @@
 # ✨ Puppy Care  ✨
 
-This project is developed especially for pet dogs and adopted dogs.
+This project is developed especially for pet dogs and adopted street dogs.
 
-### This web based Agricultural application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based Petcare application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://calm-mud-00d159b10.3.azurestaticapps.net
