@@ -1,6 +1,6 @@
 # ✨ Puppy Care  ✨
 
-This is a web based application developed for crop health and crop recommendation system based website in india.
+This project is developed especially for pet dogs and adopted dogs.
 
 ### This web based Agricultural application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
