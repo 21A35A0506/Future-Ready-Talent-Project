@@ -7,8 +7,7 @@ This project is developed especially for pet dogs and adopted street dogs.
 
 **Project Link** - https://calm-mud-00d159b10.3.azurestaticapps.net
 
-**Project Demo Video Link** - https://youtu.be/JS0ezQs2LPA
-
+**Project Demo Video Link** - https://youtu.be/uAOCMQnNf5k
 ## Azure technologies used for project
 1. Static web apps
 2. Health bot
